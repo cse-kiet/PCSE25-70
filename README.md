@@ -1,15 +1,15 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Detection of Parkinson’s Disease using ML Techniques  
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Varun Gupta
+2. Yash Jain
+3. Sumit Pal
+
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Add Code to Colab
+2. Directly Run it
+
 
 ## Checklist:
 1. Final Project Report
